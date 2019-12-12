@@ -1,10 +1,9 @@
 ---
 layout: default
 title: UI Components
-nav_order: 1
+nav_order: 3
 has_children: true
-parent: Backup
-permalink: /docs/Backup/ui-components
+permalink: /docs/ui-components
 ---
 
 # UI Components

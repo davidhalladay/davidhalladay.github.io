@@ -2,7 +2,6 @@
 layout: default
 title: Tables
 parent: UI Components
-grand_parent: Backup
 nav_order: 4
 ---
 
