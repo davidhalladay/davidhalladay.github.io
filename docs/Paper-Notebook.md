@@ -73,7 +73,7 @@ Feel free to send a PR or an issue.
 | V | [Fusion-GAN](https://arxiv.org/pdf/1812.05840.pdf) | [CVPR2019] Spatial Fusion GAN for Image Synthesis | ![06](./images/06.png) |
 |      | [Text2Scene](https://arxiv.org/abs/1809.01110)<br />[Code](https://github.com/uvavision/Text2Image) | [CVPR2019] Text2Scene: Generating Abstract Scenes from Textual Descriptions |              |
 
-#### Graph 
+#### Graph
 | V | Model           | Paper                                                        | Note                                                |
 | ---- | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | V | [sg2im](https://arxiv.org/abs/1804.01622)<br />[Code](https://github.com/google/sg2im) | [CVPR2018] Image Generation from Scene Graphs               | Google cloud AI |
@@ -194,5 +194,3 @@ Feel free to send a PR or an issue.
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 |      | [Paper](https://openreview.net/pdf?id=HJlqN4HlIB)            | [NIPS2019] Deep Learning without Weight Transport            |      |
 |      | [Paper](http://papers.nips.cc/paper/8885-weakly-supervised-instance-segmentation-using-the-bounding-box-tightness-prior.pdf) | [NIPS2019] Weakly Supervised Instance Segmentation using the Bounding Box Tightness Prior |      |
-
-
