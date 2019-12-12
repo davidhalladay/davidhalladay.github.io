@@ -22,6 +22,3 @@ Hi! I'm ChrisD and I am a college student in NTU. My research is focus on comput
 
 {: .fs-6 .fw-300 }
 
-<!---
-[Paper Notebook]({{ site.baseurl }}{% link docs/Paper-Notebook.md %})
--->
