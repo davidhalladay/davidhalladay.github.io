@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Utilities
-nav_order: 4
+nav_order: 2
 has_children: true
-permalink: docs/utilities
+parent: Backup
+permalink: docs/Backup/utilities
 ---
 
 # Utilities

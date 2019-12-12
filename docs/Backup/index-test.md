@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Markdown kitchen sink
-nav_order: 99
+parent: Backup
+nav_order: 3
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
