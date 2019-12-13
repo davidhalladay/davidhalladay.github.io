@@ -28,12 +28,13 @@ nav_order: 1
 |      | [SD-GAN](https://arxiv.org/abs/1904.01480)                   | [CVPR2019] Semantics Disentangling for Text-to-Image Generation |                                                              |
 | V    | [Obj-GAN](https://arxiv.org/abs/1902.10740)<br />[Code](https://github.com/jamesli1618/Obj-GAN) | [CVPR2019] Object-driven Text-to-Image Synthesis via Adversarial Training |                                                              |
 | V    | [Paper](https://arxiv.org/pdf/1811.09845.pdf)                | [ICCV2019] Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction |                                                              |
-| V    | [Paper](https://arxiv.org/pdf/1908.01741.pdf)                | [2019] Visual-Relation Conscious Image Generation from Structured-Text | ![07](./images/07.png)                                       |
+| V    | [Paper](https://arxiv.org/pdf/1908.01741.pdf)                | [2019] Visual-Relation Conscious Image Generation from Structured-Text | ![07](../../../assets/images/docs_images/07.png)             |
 |      | [Paper](https://arxiv.org/pdf/1909.00640.pdf)                | [2019] Relationship-Aware Spatial Perception Fusion for Realistic Scene Layout Generation |                                                              |
 |      | [Paper](https://arxiv.org/pdf/1910.13321v1.pdf)              | [2019] Semantic Object Accuracy for Generative Text-to-Image Synthesis | a new model that explicitly models individual objects within an image and a new evaluation metric called Semantic Object Accuracy (SOA) |
 |      | [Paper](https://arxiv.org/pdf/1805.08318.pdf)                | [ICML2019] Self-Attention Generative Adversarial Networks    |                                                              |
 
 ### Bbox constrained
+
 | V    | Model                                                        | Paper                                                        | Note |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | V    | [GAWWN](https://arxiv.org/abs/1610.02454)<br />[Code](https://github.com/reedscot/nips2016) | [NIPS2016]Learning What and Where to Draw                    |      |
