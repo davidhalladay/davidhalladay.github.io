@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Configuration
-parent: Backup
-nav_order: 4
+nav_order: 2
 ---
 
 # Configuration
 {: .no_toc }
+
 
 Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
 {: .fs-6 .fw-300 }
@@ -76,7 +76,8 @@ color_scheme: "dark"
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
 <script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
-See [Customization]({{ site.baseurl }}{% link docs/Backup/customization.md %}) for more information.
+
+See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
 
 ## Google Analytics
 

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Navigation Structure
-parent: Backup
 nav_order: 5
 ---
 
@@ -60,7 +59,7 @@ nav_exclude: true
 
 ## Pages with children
 
-Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/Backup/ui-components` and `./docs/Backup/utilities`. This gives us an organization like:
+Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/ui-components` and `./docs/utilities`. This gives us an organization like:
 
 ```
 +-- ..
@@ -104,7 +103,7 @@ has_children: true
 ---
 ```
 
-Here we're setting up the UI Components landing page that is available at `/docs/Backup/ui-components`, which has children and is ordered second in the main nav.
+Here we're setting up the UI Components landing page that is available at `/docs/ui-components`, which has children and is ordered second in the main nav.
 
 ### Child pages
 {: .text-gamma }
@@ -193,7 +192,7 @@ This would create the following navigation structure:
 
 ## Auxiliary Navigation
 
-To add a auxiliary navigation item to your site (in the upper right on all pages), add it to the `aux_nav` [configuration option]({{ site.baseurl }}{% link docs/Backup/configuration.md %}#aux-nav) in your site's `_config.yml` file.
+To add a auxiliary navigation item to your site (in the upper right on all pages), add it to the `aux_nav` [configuration option]({{ site.baseurl }}{% link docs/configuration.md %}#aux-nav) in your site's `_config.yml` file.
 
 #### Example
 {: .no_toc }

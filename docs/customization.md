@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Customization
-parent: Backup
 nav_order: 6
 ---
 
@@ -36,6 +35,7 @@ color_scheme: "dark"
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
 <script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
+
 ## Specific visual customization
 
 To customize your site’s aesthetic, open `_sass/custom/custom.scss` in your editor to see if there is a variable that you can override. Most styles like fonts, colors, spacing, etc. are derived from these variables. To override a specific variable, uncomment its line and change its value.

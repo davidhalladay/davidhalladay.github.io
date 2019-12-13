@@ -2,7 +2,6 @@
 layout: default
 title: Responsive Modifiers
 parent: Utilities
-grand_parent: Backup
 nav_order: 1
 ---
 
