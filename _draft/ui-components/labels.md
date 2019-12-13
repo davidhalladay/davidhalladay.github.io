@@ -12,7 +12,6 @@ Use labels as a way to add an additional mark to a section of your docs. Labels 
 <div class="code-example" markdown="1">
 Default label
 {: .label }
-
 Blue label
 {: .label .label-blue }
 

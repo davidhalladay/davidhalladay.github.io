@@ -15,6 +15,8 @@ nav_order: 5
 |      | [R-FCN++](https://pdfs.semanticscholar.org/f4a2/732d4051b9c4b5d1f057aaa7935be390f51e.pdf) | [AAAI2018] R-FCN++: Towards Accurate Region-Based Fully Convolutional Networks for Object Detection | ![13](../../../assets/images/docs_images/13.png)             |
 | V    | [Faster RCNN](https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) | [NIPS2017] Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | ![10](../../../assets/images/docs_images/10.png)             |
 | V    | [Mask RCNN](https://arxiv.org/pdf/1703.06870.pdf)            | [ICCV2017] Mask R-CNN                                        | The method, called Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition. Mask R-CNN is simple to train and adds only a small overhead to Faster R-CNN, running at 5 fps<br />![09](../../../assets/images/docs_images/09.png) |
+|      | [Cascade R-CNN](https://arxiv.org/pdf/1906.09756.pdf)        | [CVPR2018] Cascade R-CNN: High Quality Object Detection and Instance Segmentation |                                                              |
+|      | [TensorMask](https://arxiv.org/pdf/1903.12174.pdf)           | [ICCV2019] TensorMask: A Foundation for Dense Object Segmentation | Sliding-window object detectors that generate boundingbox object predictions over a dense, regular grid have advanced rapidly and proven popular |
 
 
 ## Relation Network
@@ -22,8 +24,15 @@ nav_order: 5
 | V    | Model                                                        | Paper                                                        | Note                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |      | [Paper](https://arxiv.org/pdf/1711.11575.pdf?fbclid=IwAR2SKIuG2_Izg7BNl6vhXBlAhkwEVxC2yt0ToP2R2CVg6IFKRqmqa-xd3C4) | [CVPR2018]Relation Networks for Object Detection             | This work proposes an object relation module. It processes a set of objects simultaneously through interaction between their appearance feature and geometry, thus allowing modeling of their relations |
+|      | [Paper](https://arxiv.org/pdf/1810.12681.pdf)                | [2018] Hybrid Knowledge Routed Modules for Large-scale Object Detection | Attribute-based object detection task<br />![03](../../../assets/images/docs_images/16.png) |
 | V    | [Reasoning-RCNN](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Reasoning-RCNN_Unifying_Adaptive_Global_Reasoning_Into_Large-Scale_Object_Detection_CVPR_2019_paper.pdf) | [CVPR2019]Reasoning-RCNN: Unifying Adaptive Global Reasoning into Large-scale Object Detection | ![03](../../../assets/images/docs_images/03.png)             |
 |      | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Spatial-Aware_Graph_Relation_Network_for_Large-Scale_Object_Detection_CVPR_2019_paper.pdf) | [CVPR2019] Spatial-aware Graph Relation Network for Large-scale Object Detection | ![14](../../../assets/images/docs_images/14.png)             |
+
+## Image Recognition
+
+| V    | Model                                          | Paper                                                        | Note |
+| ---- | ---------------------------------------------- | ------------------------------------------------------------ | ---- |
+|      | [ML-GCN](https://arxiv.org/pdf/1904.03582.pdf) | CVPR2019{: .label } Multi-Label Image Recognition with Graph Convolutional Networks |      |
 
 ## Tiny things
 
